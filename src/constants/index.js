@@ -240,11 +240,6 @@ const socialImgs = [
     Icon: FaLinkedin,
     link: "https://www.linkedin.com/in/thangarajiv-s-53164b2bb/",
   },
-  {
-    name: "insta",
-    Icon: FaInstagram,
-    link: "https://www.instagram.com/360_photospot/",
-  },
 ];
 
 export {
